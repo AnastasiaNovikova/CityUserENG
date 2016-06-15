@@ -14,6 +14,34 @@
 Вы узнаете из документации в первую очередь о том, как использовать систему наиболее эффективно.
 
 
+.. note:: the class values set in this directive-block do not apply to
+   the note but the next paragraph.
+
+   .. class:: special
+   
+      some text
+
+This is a paragraph with class value "special".
+
+
+.. class:: special
+
+This is a "special" paragraph.
+
+.. class:: exceptional remarkable
+
+An Exceptional Section
+======================
+
+This is an ordinary paragraph.
+
+.. class:: multiple
+
+   First paragraph.
+
+   Second paragraph.
+
+
 Структура книги, как ею пользоваться
 ------------------------------------
 
@@ -81,4 +109,5 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
 
