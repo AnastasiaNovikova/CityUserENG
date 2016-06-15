@@ -17,25 +17,25 @@
 .. note:: the class values set in this directive-block do not apply to
    the note but the next paragraph.
 
-   .. class:: special
+   .. cssclass:: special
    
       some text
 
 This is a paragraph with class value "special".
 
 
-.. class:: special
+.. cssclass:: special
 
 This is a "special" paragraph.
 
-.. class:: exceptional remarkable
+.. cssclass:: exceptional remarkable
 
 An Exceptional Section
 ======================
 
 This is an ordinary paragraph.
 
-.. class:: multiple
+.. cssclass:: multiple
 
    First paragraph.
 
