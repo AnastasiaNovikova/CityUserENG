@@ -55,59 +55,5 @@ This is an ordinary paragraph.
 
 Содеражание:
 ************
-.. toctree::
-   :maxdepth: 3
-   :caption: Начало работы
-
-   content/start/start_common.rst
-   content/offers/conversion.rst
-   content/start/interface_overview.rst
-   
-.. toctree::
-   :maxdepth: 2
-   :caption: Аккаунт и счета
-
-   content/account/account_face.rst
-   content/account/finance.rst
-   content/account/agent_cabinet.rst
-   
-.. toctree::
-   :maxdepth: 2
-   :caption: Работа с офферами
-
-   content/offers/offers_face.rst
-   content/offers/offers_interface.rst
-
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Статистика
-  
-   content/statistics/statistics_face.rst
-   content/statistics/different_reports.rst 
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Инструменты
-   
-   content/instruments//getlink.rst
-   content/instruments/rurl.rst
-   content/instruments/ConversionPostback.rst
-   content/instruments/firanofinance.rst
-   
-.. toctree::
-   :maxdepth: 2
-   :caption: Дополнительная информация
-
-   content/known_issues/known_issues.rst
-   content/faq/faq_face.rst
-   content/agreements/agree.rst
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 
 
